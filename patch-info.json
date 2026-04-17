@@ -1,42 +1,24 @@
-{
+
   "current": {
-    "version": "12.06",
-    "dateEs": "31 de marzo, 2026",
-    "dateEn": "March 31, 2026",
+    "version": "12.07",
+    "dateEs": "15 de abril, 2026",
+    "dateEn": "April 15, 2026",
     "latestAgent": "Miks",
-    "patchNotesUrl": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-06/",
-    "mapRotation": [
-      "Bind",
-      "Breeze",
-      "Fracture",
-      "Haven",
-      "Lotus",
-      "Pearl",
-      "Split"
-    ],
+    "patchNotesUrl": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-07/",
+    "mapRotation": ["Bind", "Breeze", "Fracture", "Haven", "Lotus", "Pearl", "Split"],
     "highlights": [
-      "Waylay: Saturar pasa de instant\u00e1neo a equipable",
-      "Viper: arreglo de consistencia en Foso",
-      "Velocidad de movimiento en Flexear aumentada a 100%"
+      "Integración con Discord: vinculá tu cuenta, vé qué amigos están jugando e invitalos desde Discord (beta regional primero)",
+      "Rediseño de pantallas de configuración en PC para mayor claridad",
+      "Miras de scope unificadas y arreglos varios en la tienda"
     ]
   },
   "upcoming": {
-    "version": "12.07",
-    "dateEs": "~22 de abril, 2026",
-    "dateEn": "~April 22, 2026",
+    "version": "12.08",
+    "dateEs": "~29 de abril, 2026",
+    "dateEn": "~April 29, 2026",
     "latestAgent": null,
     "patchNotesUrl": "https://playvalorant.com/en-us/news/game-updates/",
-    "mapRotation": [
-      "Bind",
-      "Breeze",
-      "Fracture",
-      "Haven",
-      "Lotus",
-      "Pearl",
-      "Split"
-    ],
-    "highlights": [
-      "Sin confirmar \u2014 actualiz\u00e1 cuando salgan las notas oficiales"
-    ]
+    "mapRotation": ["Bind", "Breeze", "Fracture", "Haven", "Lotus", "Pearl", "Split"],
+    "highlights": ["Sin confirmar — actualizá cuando salgan las notas oficiales"]
   }
 }
