@@ -1,24 +1,42 @@
-
+{
   "current": {
-    "version": "12.07",
-    "dateEs": "15 de abril, 2026",
-    "dateEn": "April 15, 2026",
+    "version": "12.08",
+    "dateEs": "28 de abril, 2026",
+    "dateEn": "April 28, 2026",
     "latestAgent": "Miks",
-    "patchNotesUrl": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-07/",
-    "mapRotation": ["Bind", "Breeze", "Fracture", "Haven", "Lotus", "Pearl", "Split"],
+    "patchNotesUrl": "https://playvalorant.com/es-mx/news/game-updates/valorant-patch-notes-12-08/",
+    "mapRotation": [
+      "Ascent",
+      "Breeze",
+      "Fracture",
+      "Haven",
+      "Lotus",
+      "Pearl",
+      "Split"
+    ],
     "highlights": [
-      "Integración con Discord: vinculá tu cuenta, vé qué amigos están jugando e invitalos desde Discord (beta regional primero)",
-      "Rediseño de pantallas de configuración en PC para mayor claridad",
-      "Miras de scope unificadas y arreglos varios en la tienda"
+      "Acto 2 — Ascent regresa y Bind sale de la rotación competitiva",
+      "Nuevo modo Escaramuza: Ascensión (1v1 y 2v2 con tabla de posiciones de FTW)",
+      "[Solo PC] Premier regresa con la Fase V26A3 — partidas desde el 6 de mayo"
     ]
   },
   "upcoming": {
-    "version": "12.08",
-    "dateEs": "~29 de abril, 2026",
-    "dateEn": "~April 29, 2026",
+    "version": "12.09",
+    "dateEs": "~12 de mayo, 2026",
+    "dateEn": "~May 12, 2026",
     "latestAgent": null,
     "patchNotesUrl": "https://playvalorant.com/en-us/news/game-updates/",
-    "mapRotation": ["Bind", "Breeze", "Fracture", "Haven", "Lotus", "Pearl", "Split"],
-    "highlights": ["Sin confirmar — actualizá cuando salgan las notas oficiales"]
+    "mapRotation": [
+      "Ascent",
+      "Breeze",
+      "Fracture",
+      "Haven",
+      "Lotus",
+      "Pearl",
+      "Split"
+    ],
+    "highlights": [
+      "Sin confirmar — actualizá cuando salgan las notas oficiales"
+    ]
   }
 }
